@@ -1,10 +1,10 @@
 # RaylibPlus
 Studies on Raylib in C++
 
-## Square Dino
-###Idea
+### Square Dino
+#### Idea
 Replicate the browser dino runner.
 
-###Controls
+#### Controls
 Space - Jump
 Key Down - Crouch
