@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos\\GitHub\\Raylib\\RaylibCourse\\DapperDasher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C752C29A-A3A1-4465-BBCB-88FD1D4EF64A}|DapperDasher\\DapperDasher.vcxproj|D:\\Documentos\\GitHub\\Raylib\\RaylibCourse\\DapperDasher\\DapperDasher\\DapperDasher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C752C29A-A3A1-4465-BBCB-88FD1D4EF64A}|DapperDasher\\DapperDasher.vcxproj|solutionrelative:DapperDasher\\DapperDasher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DapperDasher.cpp",
+              "DocumentMoniker": "D:\\Documentos\\GitHub\\Raylib\\RaylibCourse\\DapperDasher\\DapperDasher\\DapperDasher.cpp",
+              "RelativeDocumentMoniker": "DapperDasher\\DapperDasher.cpp",
+              "ToolTip": "D:\\Documentos\\GitHub\\Raylib\\RaylibCourse\\DapperDasher\\DapperDasher\\DapperDasher.cpp",
+              "RelativeToolTip": "DapperDasher\\DapperDasher.cpp",
+              "ViewState": "AgIAAG4BAAAAAAAAAAAjwIcBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T03:25:59.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

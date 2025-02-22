@@ -1,0 +1,22 @@
+﻿  DapperDasher.cpp
+D:\Documentos\GitHub\Raylib\RaylibCourse\DapperDasher\DapperDasher\DapperDasher.cpp(49,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\DapperDasher\DapperDasher\DapperDasher.cpp(49,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\DapperDasher\DapperDasher\DapperDasher.cpp(49,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\DapperDasher\DapperDasher\DapperDasher.cpp(49,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\DapperDasher\DapperDasher\DapperDasher.cpp(104,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\DapperDasher\DapperDasher\DapperDasher.cpp(287,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\DapperDasher\DapperDasher\DapperDasher.cpp(330,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\DapperDasher\DapperDasher\DapperDasher.cpp(333,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\DapperDasher\DapperDasher\DapperDasher.cpp(340,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\DapperDasher\DapperDasher\DapperDasher.cpp(345,41): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\DapperDasher\DapperDasher\DapperDasher.cpp(345,28): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\DapperDasher\DapperDasher\DapperDasher.cpp(385,56): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\DapperDasher\DapperDasher\DapperDasher.cpp(389,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\DapperDasher\DapperDasher\DapperDasher.cpp(403,74): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\DapperDasher\DapperDasher\DapperDasher.cpp(403,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\DapperDasher\DapperDasher\DapperDasher.cpp(405,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\DapperDasher\DapperDasher\DapperDasher.cpp(406,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\DapperDasher\DapperDasher\DapperDasher.cpp(406,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  DapperDasher.vcxproj -> D:\Documentos\GitHub\Raylib\RaylibCourse\DapperDasher\x64\Debug\DapperDasher.exe
+  'pwsh.exe' não é reconhecido como um comando interno
+  ou externo, um programa operável ou um arquivo em lotes.
