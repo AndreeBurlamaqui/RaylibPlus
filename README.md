@@ -7,4 +7,5 @@ Replicate the browser dino runner.
 
 #### Controls
 Space - Jump
+
 Key Down - Crouch
