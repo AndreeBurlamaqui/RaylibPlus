@@ -1,0 +1,204 @@
+﻿  ClassyClash.cpp
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(215,16): error C2011: 'Vector2': 'struct' type redefinition
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(221,16): error C2011: 'Vector3': 'struct' type redefinition
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(126,16):
+      see declaration of 'Vector3'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(228,16): error C2011: 'Vector4': 'struct' type redefinition
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(136,16):
+      see declaration of 'Vector4'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(239,16): error C2011: 'Matrix': 'struct' type redefinition
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(153,16):
+      see declaration of 'Matrix'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(327,13): error C2079: 'Camera3D::position' uses undefined struct 'Vector3'
+  (compiling source file 'ClassyClash.cpp')
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(328,13): error C2079: 'Camera3D::target' uses undefined struct 'Vector3'
+  (compiling source file 'ClassyClash.cpp')
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(329,13): error C2079: 'Camera3D::up' uses undefined struct 'Vector3'
+  (compiling source file 'ClassyClash.cpp')
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(339,13): error C2079: 'Camera2D::offset' uses undefined struct 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(340,13): error C2079: 'Camera2D::target' uses undefined struct 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(394,13): error C2079: 'Transform::translation' uses undefined struct 'Vector3'
+  (compiling source file 'ClassyClash.cpp')
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(395,16): error C2079: 'Transform::rotation' uses undefined struct 'Vector4'
+  (compiling source file 'ClassyClash.cpp')
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(396,13): error C2079: 'Transform::scale' uses undefined struct 'Vector3'
+  (compiling source file 'ClassyClash.cpp')
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(407,12): error C2079: 'Model::transform' uses undefined struct 'Matrix'
+  (compiling source file 'ClassyClash.cpp')
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(432,13): error C2079: 'Ray::position' uses undefined struct 'Vector3'
+  (compiling source file 'ClassyClash.cpp')
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(433,13): error C2079: 'Ray::direction' uses undefined struct 'Vector3'
+  (compiling source file 'ClassyClash.cpp')
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(440,13): error C2079: 'RayCollision::point' uses undefined struct 'Vector3'
+  (compiling source file 'ClassyClash.cpp')
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(441,13): error C2079: 'RayCollision::normal' uses undefined struct 'Vector3'
+  (compiling source file 'ClassyClash.cpp')
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(446,13): error C2079: 'BoundingBox::min' uses undefined struct 'Vector3'
+  (compiling source file 'ClassyClash.cpp')
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(447,13): error C2079: 'BoundingBox::max' uses undefined struct 'Vector3'
+  (compiling source file 'ClassyClash.cpp')
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(505,12): error C2079: 'VrStereoConfig::projection' uses undefined struct 'Matrix'
+  (compiling source file 'ClassyClash.cpp')
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(506,12): error C2079: 'VrStereoConfig::viewOffset' uses undefined struct 'Matrix'
+  (compiling source file 'ClassyClash.cpp')
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1004,15): error C2526: 'GetMonitorPosition': C linkage function cannot return C++ class 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1010,15): error C2526: 'GetWindowPosition': C linkage function cannot return C++ class 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1011,15): error C2526: 'GetWindowScaleDPI': C linkage function cannot return C++ class 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1067,15): error C2526: 'GetWorldToScreen': C linkage function cannot return C++ class 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1068,15): error C2526: 'GetWorldToScreenEx': C linkage function cannot return C++ class 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1069,15): error C2526: 'GetWorldToScreen2D': C linkage function cannot return C++ class 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1070,15): error C2526: 'GetScreenToWorld2D': C linkage function cannot return C++ class 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1071,14): error C2526: 'GetCameraMatrix': C linkage function cannot return C++ class 'Matrix'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(153,16):
+      see declaration of 'Matrix'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1072,14): error C2526: 'GetCameraMatrix2D': C linkage function cannot return C++ class 'Matrix'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(153,16):
+      see declaration of 'Matrix'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1203,15): error C2526: 'GetMousePosition': C linkage function cannot return C++ class 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1204,15): error C2526: 'GetMouseDelta': C linkage function cannot return C++ class 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1209,15): error C2526: 'GetMouseWheelMoveV': C linkage function cannot return C++ class 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1215,15): error C2526: 'GetTouchPosition': C linkage function cannot return C++ class 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1226,15): error C2526: 'GetGestureDragVector': C linkage function cannot return C++ class 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1228,15): error C2526: 'GetGesturePinchVector': C linkage function cannot return C++ class 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1299,15): error C2526: 'GetSplinePointLinear': C linkage function cannot return C++ class 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1300,15): error C2526: 'GetSplinePointBasis': C linkage function cannot return C++ class 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1301,15): error C2526: 'GetSplinePointCatmullRom': C linkage function cannot return C++ class 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1302,15): error C2526: 'GetSplinePointBezierQuad': C linkage function cannot return C++ class 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1303,15): error C2526: 'GetSplinePointBezierCubic': C linkage function cannot return C++ class 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1441,15): error C2526: 'ColorNormalize': C linkage function cannot return C++ class 'Vector4'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(136,16):
+      see declaration of 'Vector4'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1443,15): error C2526: 'ColorToHSV': C linkage function cannot return C++ class 'Vector3'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(126,16):
+      see declaration of 'Vector3'
+  
+D:\Documentos\vcpkg\installed\x64-windows\include\raylib.h(1484,15): error C2526: 'MeasureTextEx': C linkage function cannot return C++ class 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\ClassyClash\Entities.h(19,10): error C2079: 'Entity::position' uses undefined struct 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+  
+D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\ClassyClash\Entities.h(20,10): error C2079: 'Entity::motion' uses undefined struct 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+  
+D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\ClassyClash\Entities.h(9,10): error C2027: use of undefined type 'Vector2'
+  (compiling source file 'ClassyClash.cpp')
+      D:\Documentos\vcpkg\installed\x64-windows\include\raymath.h(117,16):
+      see declaration of 'Vector2'
+  
+D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\ClassyClash\ClassyClash.cpp(11,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\ClassyClash\ClassyClash.cpp(11,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Entity.cpp
+D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\ClassyClash\Entity.cpp(30,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\ClassyClash\Entity.cpp(30,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Player.cpp

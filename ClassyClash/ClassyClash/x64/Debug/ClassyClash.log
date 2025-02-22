@@ -1,0 +1,14 @@
+﻿  Entity.cpp
+D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\ClassyClash\Entity.cpp(189,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\ClassyClash\Entity.cpp(189,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\ClassyClash\Entity.cpp(194,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\ClassyClash\Entity.cpp(194,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\ClassyClash\Entity.cpp(250,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\ClassyClash\Entities.h(25,1): warning C4172: returning address of local variable or temporary 
+D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\ClassyClash\Entities.h(18,1): warning C4172: returning address of local variable or temporary 
+D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\ClassyClash\Entities.h(21,1): warning C4172: returning address of local variable or temporary 
+D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\ClassyClash\Entities.h(23,1): warning C4172: returning address of local variable or temporary 
+D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\ClassyClash\Entities.h(24,1): warning C4172: returning address of local variable or temporary 
+  ClassyClash.vcxproj -> D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\x64\Debug\ClassyClash.exe
+  'pwsh.exe' não é reconhecido como um comando interno
+  ou externo, um programa operável ou um arquivo em lotes.

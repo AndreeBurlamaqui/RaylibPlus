@@ -1,0 +1,11 @@
+﻿  ClassyClash.cpp
+D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\ClassyClash\ClassyClash.cpp(1,10): error C1083: Cannot open include file: 'raymath.h': No such file or directory
+  Entity.cpp
+D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\ClassyClash\Entities.h(1,10): error C1083: Cannot open include file: 'raylib.h': No such file or directory
+  (compiling source file 'Entity.cpp')
+  
+  Player.cpp
+D:\Documentos\GitHub\Raylib\RaylibCourse\ClassyClash\ClassyClash\Entities.h(1,10): error C1083: Cannot open include file: 'raylib.h': No such file or directory
+  (compiling source file 'Player.cpp')
+  
+  Generating Code...
